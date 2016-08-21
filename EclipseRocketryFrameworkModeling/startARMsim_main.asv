@@ -1,0 +1,10 @@
+%% Clean Up Before Start
+
+clear all;
+clc all;
+bdclose all;
+
+
+% load important paths
+
+% 
